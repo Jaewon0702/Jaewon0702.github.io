@@ -1,4 +1,4 @@
-title: J1's TodayReview
+title: 재원's TodayReview
 description: 매일 꾸준히 기록하자!
 author: Jaewon0702
 avatar: /logo.png
@@ -29,15 +29,11 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
+
 logo: logo.png
-social:
-  name: Shangzhi Huang
+social: 
+  name: Jaewon Lee
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
     - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
