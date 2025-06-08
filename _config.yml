@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Noah Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an AI engineer"
+  bio              : "Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan. "
   location         : "Ann Arbor, MI, USA"
-  email            :
+  email            : "jwlee8291@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
