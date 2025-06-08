@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Noah Lee"
-  avatar           : /assets/images/Visa Photo # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Visa-Photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan. "
   location         : "Ann Arbor, MI, USA"
   email            : "jwlee8291@gmail.com"
