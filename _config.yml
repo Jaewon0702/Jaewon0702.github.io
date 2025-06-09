@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Noah Lee"
+  name             : "Jaewon(Noah) Lee"
   avatar           : "/assets/images/Visa-Photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan. "
+  bio              : "Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor. "
   location         : "Ann Arbor, MI, USA"
   email            : "jwlee8291@gmail.com"
   links:
